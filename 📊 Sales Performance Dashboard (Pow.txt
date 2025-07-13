@@ -1,0 +1,41 @@
+📊 Sales Performance Dashboard (Power BI)
+
+ Overview
+
+This Power BI dashboard provides actionable insights into the sales performance of an organization. It is built to assist decision-     makers in analyzing key metrics such as revenue, sales volume, top-performing products, and regional performance.
+
+
+ Features
+- 💰 Total Sales Analysis  
+- 📦 Top Products & Categories
+- 🌍 Sales by Region
+- 👨‍💼 Salesperson Performance
+- 📈 Time-Based Trend Analysis
+- 🎛️ Interactive Filtering and Drill-Downs
+
+Tech Stack
+
+ -Power BI Desktop
+ -Data Sources: (Assume Excel/CSV/SQL Server, based on your source)
+
+Usage
+
+1. Open the `.pbix` file in Power BI Desktop.
+2. Use the filters on the right panel to explore data.
+3. Hover over visuals to see detailed tooltips.
+4. Click on chart elements for cross-filtering.
+
+Purpose
+
+- Track sales KPIs and performance
+- Identify opportunities and risks
+- Optimize team and product strategies
+
+ Author
+
+-Name: Thurgesh S
+-Date: July  13 2025
+-Tool: Power BI
+
+
+
